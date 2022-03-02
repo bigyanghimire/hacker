@@ -26,7 +26,7 @@ SECRET_KEY = 'u_gb6@$!*$_+vt2@o#ep7^^lk(v#vx$-$w*+)hv(l2&at0&)p8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['voterforbangladesh.herokuapp.com']
+ALLOWED_HOSTS = ['voteforbangladesh.herokuapp.com']
 
 
 # Application definition
